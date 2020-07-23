@@ -1,0 +1,9 @@
+group Server
+    FsToolkit.ErrorHandling
+    FsToolkit.ErrorHandling.TaskResult
+    Fable.Remoting.Giraffe
+    Dapper
+    Microsoft.Data.Sqlite
+    Saturn
+    Feliz.ViewEngine
+    Feliz.Bulma.ViewEngine
